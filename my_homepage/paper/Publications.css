@@ -1,0 +1,668 @@
+.style {
+    padding: 4px;
+}
+.paragraph_style {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.style_2 {
+    font-family: 'BellMT', 'Bell MT';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+.style_3 {
+    font-family: 'CenturySchoolbook', 'Century Schoolbook';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-BoldItalic', 'Cochin', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(33, 57, 145);
+    font-family: 'CenturySchoolbook-Italic', 'Century Schoolbook';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_592_62 {
+    position: relative;
+}
+.style_4 {
+    font-family: 'CenturySchoolbook-Italic', 'Century Schoolbook';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 19px;
+}
+.style_5 {
+    font-family: 'CenturySchoolbook-Italic', 'Century Schoolbook';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 19px;
+}
+.paragraph_style_4 {
+    color: rgb(0, 0, 0);
+    font-family: 'CenturySchoolbook', 'Century Schoolbook';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_6 {
+    font-family: 'CenturySchoolbook-BoldItalic', 'Century Schoolbook';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 19px;
+}
+.paragraph_style_5 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Italic', 'Cochin', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_6 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Body {
+    color: rgb(103, 103, 103);
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: rgb(103, 103, 103);
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 40px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing:    -0.04em;
+    line-height: 46px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_592_62 {
+    position: relative;
+}
+.Title {
+    color: rgb(51, 51, 51);
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 11px;
+    padding-top: 22px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_shape_layout_style_default_External_72_52 {
+    position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_137_64 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_658_129 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_587_117 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_625_117 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_544_117 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_606_117 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class1 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class10 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class10:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class10:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class11 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class11:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class11:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class12 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class12:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class12:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class13 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class13:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class13:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class14 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class14:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class14:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class15 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class15:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class15:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class16 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class16:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class16:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class17 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class17:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class17:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class18 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class18:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class18:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class19 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class19:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class19:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class2 {
+    color: rgb(143, 143, 143);
+}
+a.class2:visited {
+    color: rgb(146, 146, 146);
+}
+a.class2:hover {
+    color: rgb(143, 143, 143);
+}
+a.class20 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class20:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class20:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class21 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class21:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class21:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class22 {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+}
+a.class22:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class22:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class3:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class4 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class4:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class4:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class5 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class5:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class5:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class6 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class6:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class6:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class7 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class7:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a.class7:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+a.class8 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class8:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class8:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class9 {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class9:visited {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a.class9:hover {
+    color: rgb(4, 51, 255);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(103, 103, 103);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+#widget0 a {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
